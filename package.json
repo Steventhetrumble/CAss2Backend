@@ -1,0 +1,27 @@
+{
+  "name": "expressback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steventhetrumble/CAss2Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steventhetrumble/CAss2Backend/issues"
+  },
+  "homepage": "https://github.com/Steventhetrumble/CAss2Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "mailgun-js": "^0.22.0",
+    "method-override": "^3.0.0"
+  }
+}
